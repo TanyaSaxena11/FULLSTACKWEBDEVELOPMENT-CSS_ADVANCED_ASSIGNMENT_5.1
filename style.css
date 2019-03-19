@@ -1,0 +1,13 @@
+header{
+    width:140px;
+    height:70px;
+    border: 1px;
+    color: white;
+    padding: 20px;
+    background-color:blue;
+    border-radius:50%;
+    text-align:center;
+}
+body{
+    background:repeating-linear-gradient(To top,yellow,lightyellow 20%);
+}
